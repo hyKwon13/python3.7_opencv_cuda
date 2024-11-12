@@ -35,7 +35,7 @@
 
 ## 필수: 젯슨 OpenCV CUDA 환경 설정
 
-### 1. Python 3.7 설치 및 numpy 설치
+### 1. Python 3.7 설치 및 numpy 설치 (주의: Jetson은 ARM 타입 아키텍처이므로 x86 python 설치시 OpenCV CUDA 빌드 불가능)
 ```bash
 sudo apt update
 
