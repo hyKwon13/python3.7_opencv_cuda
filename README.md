@@ -1,4 +1,4 @@
-# 비전 센서 개발 환경 구축
+# Jetson 환경 구축
 
 ## 필수: SD카드 Jetpack SDK 설치
 1. **SD 카드 포맷**: SD Card Formatter를 사용하여 64GB microSD 카드를 포맷
